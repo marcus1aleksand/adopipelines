@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "@types/jest": "^25.2.2",
-    "@types/node": "^12.12.6",
+    "@types/node": "^16.18.27",
     "azure-devops-node-api": "11.0.1",
     "jest": "^25.5.4",
     "ts-jest": "^25.5.1",
@@ -22,5 +22,9 @@
     "test-coverage": "jest --coverage"
   },
   "author": "Nishu Bansal",
-  "license": "MIT"
+  "license": "MIT",
+  "directories": {
+    "lib": "lib"
+  },
+  "keywords": []
 }
